@@ -415,11 +415,11 @@
         "print(marks[2])"
       ],
       "metadata": {
-        "id": "Newll12QmkYj",
-        "outputId": "aed11787-c5c0-48df-9117-8eea45abcddf",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "Newll12QmkYj",
+        "outputId": "aed11787-c5c0-48df-9117-8eea45abcddf"
       },
       "execution_count": 1,
       "outputs": [
@@ -440,11 +440,11 @@
         "print(marks[1:4])\n"
       ],
       "metadata": {
-        "id": "GxnaA3rynxNM",
-        "outputId": "c4813c9c-1982-4253-bd13-f8c45f7dd910",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "GxnaA3rynxNM",
+        "outputId": "c4813c9c-1982-4253-bd13-f8c45f7dd910"
       },
       "execution_count": 2,
       "outputs": [
@@ -466,11 +466,11 @@
         "print(new_arr)"
       ],
       "metadata": {
-        "id": "BuG6eSiVoLLv",
-        "outputId": "1086479b-e349-4f47-b46e-3c38c6e95c3a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "BuG6eSiVoLLv",
+        "outputId": "1086479b-e349-4f47-b46e-3c38c6e95c3a"
       },
       "execution_count": 3,
       "outputs": [
@@ -493,11 +493,11 @@
         "print(average)"
       ],
       "metadata": {
-        "id": "GxEZshZiomGT",
-        "outputId": "df03b3d8-3446-448b-8371-24cd368682a3",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "GxEZshZiomGT",
+        "outputId": "df03b3d8-3446-448b-8371-24cd368682a3"
       },
       "execution_count": 4,
       "outputs": [
@@ -519,11 +519,11 @@
         "print(med)"
       ],
       "metadata": {
-        "id": "dZE_hheMpB34",
-        "outputId": "2b50f289-44df-4b4a-e0cc-402e458331fa",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "dZE_hheMpB34",
+        "outputId": "2b50f289-44df-4b4a-e0cc-402e458331fa"
       },
       "execution_count": 5,
       "outputs": [
@@ -550,11 +550,11 @@
         "print(\"lowest score:\",lowest)"
       ],
       "metadata": {
-        "id": "xmNyjcGEpcbH",
-        "outputId": "b6a4ac53-e731-4f5e-a7aa-0b1b1ce3643a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "xmNyjcGEpcbH",
+        "outputId": "b6a4ac53-e731-4f5e-a7aa-0b1b1ce3643a"
       },
       "execution_count": 6,
       "outputs": [
@@ -585,11 +585,11 @@
         "print(\"lowest_sales:\",lowest_sales)"
       ],
       "metadata": {
-        "id": "KBZa4-Mqqji_",
-        "outputId": "75270ef1-e8e9-444c-e66a-3f86ef9db0ea",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "KBZa4-Mqqji_",
+        "outputId": "75270ef1-e8e9-444c-e66a-3f86ef9db0ea"
       },
       "execution_count": 7,
       "outputs": [
@@ -614,11 +614,11 @@
         "print(arr)"
       ],
       "metadata": {
-        "id": "uMpUZ0UysuFh",
-        "outputId": "d5531aeb-66d3-46e6-f7c5-281028475a41",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "uMpUZ0UysuFh",
+        "outputId": "d5531aeb-66d3-46e6-f7c5-281028475a41"
       },
       "execution_count": 9,
       "outputs": [
@@ -640,11 +640,11 @@
         "print(marks)"
       ],
       "metadata": {
-        "id": "f6krK6rdtFkq",
-        "outputId": "255757bc-bb1a-4f06-b914-16129e49f397",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "f6krK6rdtFkq",
+        "outputId": "255757bc-bb1a-4f06-b914-16129e49f397"
       },
       "execution_count": 10,
       "outputs": [
@@ -669,11 +669,11 @@
         "print(students)"
       ],
       "metadata": {
-        "id": "X35pR3UctYC7",
-        "outputId": "c8ce093d-6106-48e2-80b8-0c8bd3a9290d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "X35pR3UctYC7",
+        "outputId": "c8ce093d-6106-48e2-80b8-0c8bd3a9290d"
       },
       "execution_count": 12,
       "outputs": [
